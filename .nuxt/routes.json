@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\บ้านฉาง\\\\code\\\\frontend\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_5fd046d0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\บ้านฉาง\\\\code\\\\frontend\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_06703981"
+  }
+]

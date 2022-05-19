@@ -1,0 +1,50 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "JobMonitorModal": {
+    "description": "Auto imported from components/JobMonitorModal.vue"
+  },
+  "LineChart": {
+    "description": "Auto imported from components/LineChart.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/Menu.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "NewAlarmModal": {
+    "description": "Auto imported from components/NewAlarmModal.vue"
+  },
+  "NewContainerModal": {
+    "description": "Auto imported from components/NewContainerModal.vue"
+  },
+  "NewDriverModal": {
+    "description": "Auto imported from components/NewDriverModal.vue"
+  },
+  "NewJobDriverModal": {
+    "description": "Auto imported from components/NewJobDriverModal.vue"
+  },
+  "NewJobModal": {
+    "description": "Auto imported from components/NewJobModal.vue"
+  },
+  "NewRouteModal": {
+    "description": "Auto imported from components/NewRouteModal.vue"
+  },
+  "NewTruckModal": {
+    "description": "Auto imported from components/NewTruckModal.vue"
+  },
+  "RealtimeAlert": {
+    "description": "Auto imported from components/RealtimeAlert.vue"
+  },
+  "SendMessageModal": {
+    "description": "Auto imported from components/SendMessageModal.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "SidebarMobile": {
+    "description": "Auto imported from components/SidebarMobile.vue"
+  }
+}
